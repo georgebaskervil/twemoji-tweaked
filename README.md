@@ -1,8 +1,14 @@
-# Twitter Emoji (Twemoji) [![Build Status](https://travis-ci.org/twitter/twemoji.svg?branch=gh-pages)](https://travis-ci.org/twitter/twemoji)
+# Twemoji-Tweaked
+
+This is a fork of twemoji that merges PRs from the original twemoji that X Corp have not and adds some custom changes as well.
+
+Some of the design ideals are different as well. For example, this aims to be a superset of the emoji standard, instead of purely mirroring it.
+
+## Twitter Emoji (Twemoji) [![Build Status](https://travis-ci.org/twitter/twemoji.svg?branch=gh-pages)](https://travis-ci.org/twitter/twemoji)
 
 A simple library that provides standard Unicode [emoji](http://en.wikipedia.org/wiki/Emoji) support across all platforms.
 
-**Twemoji v14.0** adheres to the [Unicode 14.0 spec](https://unicode.org/versions/Unicode14.0.0/) and supports the [Emoji 14.0 spec](https://www.unicode.org/reports/tr51/tr51-21.html). _We do not support custom emoji._
+**Twemoji v14.0** adheres to the [Unicode 14.0 spec](https://unicode.org/versions/Unicode14.0.0/) and supports the [Emoji 14.0 spec](https://www.unicode.org/reports/tr51/tr51-21.html). <strike>_We do not support custom emoji._<strike>
 
 The Twemoji library offers support for all Unicode-defined emoji which are recommended for general interchange (RGI).
 
